@@ -1,6 +1,6 @@
 ## Hi there, I'm Trym!
 
-I am a 18 year old IT developer from Norway.
+I am an 18 year old IT developer from Norway.
 
 I'm interested in software development and reverse engineering.
 
