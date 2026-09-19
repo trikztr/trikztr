@@ -1,6 +1,6 @@
 ## Hi there, I'm Trym!
 
-I am a 19 year old full-stack IT developer from Norway.
+I am a 20 year old full-stack IT developer from Norway.
 
 I'm interested in software development and reverse engineering.
 
